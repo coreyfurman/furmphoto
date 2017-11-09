@@ -227,6 +227,7 @@
         height: 100%;
         width: auto;
     }
+
 }
 
 
@@ -287,6 +288,7 @@
     .lightbox .modal-dialog {
         width: 960px;
     }
+
 }
 
 @media (max-width: 991px) {
@@ -294,6 +296,7 @@
         position: relative;
         margin-bottom: 100px;
     }
+
 }
 
 @media (max-width: 768px) {
@@ -442,10 +445,10 @@
 }
 
 .brand .h1-seo {
-    font-size: 2.9em;
+    font-size: 2.7em;
     text-transform: uppercase;
     font-weight: 300;
-    margin-top: 5%;
+    margin-top: 9%;
 }
 
 .brand .n-logo {
@@ -459,7 +462,7 @@
     position: relative;
 }
 
-.creative-tim-logo {
+.furmphoto-logo {
     max-width: 140px;
     top: -2px;
     position: relative;
@@ -497,4 +500,10 @@
     .section-navbars .navbar-collapse {
         display: none !important;
     }
+        .brand .h1-seo {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 50%;
+}
 }
