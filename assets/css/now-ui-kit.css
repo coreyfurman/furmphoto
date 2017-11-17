@@ -2540,7 +2540,7 @@ p.description {
 .description,
 .card-description,
 .footer-big p {
-    color: #9A9A9A;
+    color: #212121;
     font-weight: 300;
 }
 
@@ -4028,7 +4028,7 @@ Created using IcoMoon - icomoon.io
 
 .page-header .category,
 .page-header .description {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255,255,255, 0.5);
 }
 
 .page-header.page-header-small {
@@ -4281,7 +4281,7 @@ Created using IcoMoon - icomoon.io
 [data-background-color] h6,
 [data-background-color] a:not(.btn):not(.dropdown-item),
 [data-background-color] .icons-container i {
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 [data-background-color] .separator {
@@ -4294,7 +4294,7 @@ Created using IcoMoon - icomoon.io
 
 [data-background-color] .description,
 [data-background-color] .social-description p {
-    color: rgba(255, 255, 255, 0.8);
+    color: #212121;
 }
 
 [data-background-color] p.blockquote {
